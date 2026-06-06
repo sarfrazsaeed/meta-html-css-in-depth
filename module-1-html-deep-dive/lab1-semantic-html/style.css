@@ -1,0 +1,59 @@
+/* general styles for the whole page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Header Section */
+header {
+    background-color: #f4f4f4;
+     padding: 20px;
+    text-align: center;
+}
+
+
+
+/* Navigation Section */
+nav ul {
+     list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    margin: 0;
+}
+
+
+nav ul li {
+    margin: 0 15px;
+}
+
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* main content Section */
+main {
+    padding: 20px;
+}
+
+/* individual Sections */
+main > section {
+    margin-bottom: 20px;
+}
+
+/* article block */
+article {
+    margin-bottom: 10px;
+}
+
+/* footer section */
+footer {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 10px;
+}
