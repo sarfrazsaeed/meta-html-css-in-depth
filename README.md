@@ -8,4 +8,4 @@ HTML and CSS in Depth - Meta Front-End Developer Certificate (Coursera)
 | Lab 1 | Semantic HTML | [🔗 View Live](https://sarfrazsaeed.github.io/meta-html-css-in-depth/module-1-html-deep-dive/lab1-semantic-html/) |
 | Lab 2 | Forms | [🔗 View Live](https://sarfrazsaeed.github.io/meta-html-css-in-depth/module-1-html-deep-dive/lab2-forms/) |
 | Lab 3 | Complex Forms | [🔗 View Live](https://sarfrazsaeed.github.io/meta-html-css-in-depth/module-1-html-deep-dive/lab3-complex-forms/) |
-| Lab 4 | Media Elements | [🔗 View Live](https://sarfrazsaeed.github.io/meta-html-css-in-depth/module-1-html-deep-dive/lab3-media-elements/) |
+| Lab 4 | Media Elements | [🔗 View Live](https://sarfrazsaeed.github.io/meta-html-css-in-depth/module-1-html-deep-dive/lab4-media-elements/) |
