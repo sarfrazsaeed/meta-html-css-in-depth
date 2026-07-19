@@ -13,3 +13,4 @@ HTML and CSS in Depth - Meta Front-End Developer Certificate (Coursera)
 | Lab | Description | Live Demo |
 |-----|-------------|-----------|
 | Lab 1 | Grid Layout | [🔗 View Live](https://sarfrazsaeed.github.io/meta-html-css-in-depth/module-2-interactive-css/lab1-grid-layout/) |
+| Lab 2 | Targeted CSS | [🔗 View Live](https://sarfrazsaeed.github.io/meta-html-css-in-depth/module-2-interactive-css/lab2-targeted-css/) |
